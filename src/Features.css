@@ -1,0 +1,68 @@
+.title{
+    margin-top: -20vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+.titlem{
+    margin-top: 30vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+.param{
+    font-family: 'Orbitron';
+    font-size: 18px;
+}
+.para{
+    width:90vh;
+    font-family: 'Orbitron';
+    font-size: 20px;
+}
+.section1-1{
+    margin-left:10vh;
+    margin-top: 30vh;
+    width: 10vh;
+}
+.section1-2{
+    margin-left: 90vh;
+    margin-top: -20vh;
+}
+
+.section2-1{
+margin-left: -100vh;
+margin-top: -8vh;
+}
+.headings{
+    font-family: 'Orbitron';
+    font-size: 30px;
+    margin-top: 80px;
+}
+.headingss{
+    font-family: 'Orbitron';
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: -90vh;
+}
+.headingsm{
+    font-family: 'Orbitron';
+    font-size: 30px;
+}
+.headingssm{
+    font-family: 'Orbitron';
+    font-size: 30px;
+   
+}
+.section2-2{
+margin-left: 100vh;
+margin-top: -70vh;
+}
+
+.section3-1{
+    margin-left: 10vh;
+    margin-top: 40vh;
+}
+.section3-2{
+    margin-left: 100vh;
+    margin-top: -35vh;
+}

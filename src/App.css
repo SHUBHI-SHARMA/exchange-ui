@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-color: #0D0D2B;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #0D0D2B;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'Orbitron';
+}
+.second{
+  background-color: #0D0D2B;
+  height: 120vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Features{
+  background-color: #0D0D2B;
+  height: 480vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Featuresm{
+  background-color: #0D0D2B;
+  height: 720vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.ourcrypto{
+  background-color:white;
+  height:300vh;
+  color:  #0D0D2B;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
