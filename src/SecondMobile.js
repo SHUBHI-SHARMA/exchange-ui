@@ -1,5 +1,5 @@
 import './Header.css';
-import run from './svg-icons/run.svg';
+import run from './svg-icons/run2.png';
 
 export default function SecondMobile(){
     return(
@@ -10,7 +10,7 @@ export default function SecondMobile(){
                     <p>Experience the next generation cryptocurrency platform. No financial borders, extra fees, and fake reviews.</p>
                 </div>
                 <div className="runsm">
-                    <img src={run} width="500" height="600"/>
+                    <img src={run}/>
                 </div>
             </div>
         <button className="btnssm">Learn More</button>

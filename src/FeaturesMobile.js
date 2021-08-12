@@ -39,7 +39,7 @@ technology.</p>
 
     <div className="section3-1m">
         <h3 className="headingssm">CryptoCurrency Insurance</h3>
-        <img src={finance}/>
+        <img src={finance}  width="430"/>
 
     </div>
     <div className="section3-2m">
@@ -51,7 +51,7 @@ technology.</p>
 <div className="section2-1m">
 <h3 className="headingsm">Cross-Chain Support</h3>
 
-<img src={cross}/>
+<img src={cross}  width="430"/>
 </div>
 <div className="section2-2m">
     <p className="param">AntEagle offers you a scalable and sustainable blockchain solution with Multiple blockchain support.</p>
@@ -59,7 +59,7 @@ technology.</p>
 <br/><br/>
     <div className="section3-1m">
         <h3 className="headingssm">Post-Quantam Encryption</h3>
-        <img src={encrypt}/>
+        <img src={encrypt}  width="430"/>
 
     </div>
     <div className="section3-2m">
@@ -70,7 +70,7 @@ technology.</p>
 <div className="section2-1m">
 <h3 className="headingsm">Fast and Secure Network</h3>
 
-<img src={secure} height="300"/>
+<img src={secure} height="300" width="430"/>
 </div>
 <div className="section2-2m">
     <p className="param">We provide a secure and prominent system where you can complete transactions without any worry and enjoy profit with complete security.</p>
@@ -78,7 +78,7 @@ technology.</p>
 <br/><br/>
     <div className="section3-1m">
         <h3 className="headingssm">Help & Support</h3>
-        <img src={help}/>
+        <img src={help} width="430"/>
 
     </div>
     <div className="section3-2m">
